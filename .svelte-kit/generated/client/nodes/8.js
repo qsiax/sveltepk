@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/mesta-dlya-priyema/+page.svelte";
